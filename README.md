@@ -1,6 +1,6 @@
 # CodeDemo
 
-I interned at a company named Timmmons Group for 4 months last spring. I worked extensively on their website @
+I interned at a company named Timmons Group for 4 months last spring. I worked extensively on their website @
 
 https://fireconnect.tfs.tamu.edu/
 
