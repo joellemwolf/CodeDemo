@@ -1,4 +1,3 @@
-//Create tabs for “Shipping” and “Details” that display the shipping cost and product details, respectively.
 
 var eventBus = new Vue()
 
