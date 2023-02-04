@@ -12,7 +12,7 @@ I will still use Canvas to explain what it is I worked on with this website.
 But I assume you also want to see something real. 
 
 
-so as a quick substitue, I went ahead and built a simple cat adoption site using VUE. 
+so as a quick substitue, I went ahead and built a simple February Cat Adoption site using VUE. 
 I do not have a domain of my own to offer you a link to. 
 Instead, I'm offereing the .html .css and .js files and a link to the codepen sandbox.
 
